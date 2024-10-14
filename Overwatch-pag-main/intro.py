@@ -5,6 +5,9 @@ import os
 
 st.markdown("""
     <style>
+    body {
+        background-color: white;
+    }
     .title {
         font-family: 'Arial', sans-serif;
         color: #2E86C1;
