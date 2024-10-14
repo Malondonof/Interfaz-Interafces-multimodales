@@ -25,7 +25,7 @@ st.markdown("""
 
 # Título y contenido HTML
 st.markdown('<h1 class="title">GET READY TO SAVE THE WORLD</h1>', unsafe_allow_html=True)
-st.markdown('<h2 class="header" style="background-color: black;">Aquí subiré todo el contenido</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="header" style="background-color: black;">Localizacion del contenido</h2>', unsafe_allow_html=True)
 st.markdown('<p class="content">Hoy conoceremos más de Overwatch</p>', unsafe_allow_html=True)
 
 # Ruta a la imagen en la carpeta "Overwatch-pag-main"
